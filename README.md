@@ -1,3 +1,3 @@
 # GerarImagem
 
-Create images based on an example
+Create images based on the sample
